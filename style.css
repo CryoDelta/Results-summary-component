@@ -224,6 +224,6 @@ button{
     }
 }
 
-button:hover{
+button:hover, button:focus{
     background: linear-gradient(var(--light-slate-blue),var(--light-royal-blue));
 }
